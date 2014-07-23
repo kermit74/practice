@@ -3,4 +3,6 @@ practice
 
 attempt  2
 
-attempt commit
+commit (1) for intial clone attempt
+
+commit (2) for git pull attempt
